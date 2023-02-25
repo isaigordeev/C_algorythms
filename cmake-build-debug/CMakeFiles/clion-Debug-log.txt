@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S "/Users/isaigordeev/Desktop/CODE/C++_Coding/Implementation of algorythms " -B "/Users/isaigordeev/Desktop/CODE/C++_Coding/Implementation of algorythms /cmake-build-debug"
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/isaigordeev/Desktop/CODE/2023/algo -B /Users/isaigordeev/Desktop/CODE/2023/algo/cmake-build-debug
 -- The C compiler identification is AppleClang 11.0.3.11030032
 -- The CXX compiler identification is AppleClang 11.0.3.11030032
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/isaigordeev/Desktop/CODE/C++_Coding/Implementation of algorythms /cmake-build-debug
+-- Build files have been written to: /Users/isaigordeev/Desktop/CODE/2023/algo/cmake-build-debug

@@ -1,7 +1,7 @@
-/Users/isaigordeev/Desktop/CODE/C++_Coding/Implementation of algorythms /cmake-build-debug/CMakeFiles/Implementation_of_algorythms_.dir
-/Users/isaigordeev/Desktop/CODE/C++_Coding/Implementation of algorythms /cmake-build-debug/CMakeFiles/sortings.dir
-/Users/isaigordeev/Desktop/CODE/C++_Coding/Implementation of algorythms /cmake-build-debug/CMakeFiles/namespaces.dir
-/Users/isaigordeev/Desktop/CODE/C++_Coding/Implementation of algorythms /cmake-build-debug/CMakeFiles/pointers.dir
-/Users/isaigordeev/Desktop/CODE/C++_Coding/Implementation of algorythms /cmake-build-debug/CMakeFiles/different_function_testing.dir
-/Users/isaigordeev/Desktop/CODE/C++_Coding/Implementation of algorythms /cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/isaigordeev/Desktop/CODE/C++_Coding/Implementation of algorythms /cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/isaigordeev/Desktop/CODE/2023/algo/cmake-build-debug/CMakeFiles/Implementation_of_algorythms_.dir
+/Users/isaigordeev/Desktop/CODE/2023/algo/cmake-build-debug/CMakeFiles/sortings.dir
+/Users/isaigordeev/Desktop/CODE/2023/algo/cmake-build-debug/CMakeFiles/namespaces.dir
+/Users/isaigordeev/Desktop/CODE/2023/algo/cmake-build-debug/CMakeFiles/pointers.dir
+/Users/isaigordeev/Desktop/CODE/2023/algo/cmake-build-debug/CMakeFiles/different_function_testing.dir
+/Users/isaigordeev/Desktop/CODE/2023/algo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/isaigordeev/Desktop/CODE/2023/algo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
