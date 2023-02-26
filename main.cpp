@@ -2,9 +2,9 @@
 using namespace std;
 
 
-
 int main() {
     int i = 0, j = 0;
+   cout <<  "Hello" << endl;
     while (i < 5 && j < 5){
         cout << i << ' ' << j <<endl;
         ++i;
